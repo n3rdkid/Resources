@@ -1,4 +1,8 @@
 # Resources
+
+## Testing React 
+* [How to use React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library)
+
 ## JSS
 * [JSS](https://cssinjs.org/styled-jss/?v=v2.2.3)
 

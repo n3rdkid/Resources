@@ -21,3 +21,7 @@
 * [Create a database in a Docker container for local development](https://developer.ibm.com/technologies/databases/tutorials/docker-dev-db/)
 
 * [Run MySQL & phpMyAdmin locally in 3 steps using Docker](https://medium.com/@migueldoctor/run-mysql-phpmyadmin-locally-in-3-steps-using-docker-74eb735fa1fc)
+
+## Kubernetes
+
+* [How To Install Minikube On Ubuntu 18.04 / 20.04](https://phoenixnap.com/kb/install-minikube-on-ubuntu)

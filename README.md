@@ -24,4 +24,6 @@
 
 ## Kubernetes
 
+* [Official Docs](https://kubernetes.io/docs/home/)
+
 * [How To Install Minikube On Ubuntu 18.04 / 20.04](https://phoenixnap.com/kb/install-minikube-on-ubuntu)

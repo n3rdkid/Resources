@@ -27,3 +27,7 @@
 * [Official Docs](https://kubernetes.io/docs/home/)
 
 * [How To Install Minikube On Ubuntu 18.04 / 20.04](https://phoenixnap.com/kb/install-minikube-on-ubuntu)
+
+## Git
+
+* [A Complete Pre-Commit Workflow](https://medium.com/better-programming/a-complete-pre-commit-workflow-cea6e34f0032)

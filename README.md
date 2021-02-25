@@ -31,3 +31,6 @@
 ## Git
 
 * [A Complete Pre-Commit Workflow](https://medium.com/better-programming/a-complete-pre-commit-workflow-cea6e34f0032)
+
+## Performance
+* [Pagespeed checklist](https://pagespeedchecklist.com/)

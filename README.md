@@ -36,4 +36,4 @@
 * [Pagespeed checklist](https://pagespeedchecklist.com/)
 
 ## Core web vitals
-* [Monitoring performance in Next.js] (https://drew.tech/how-to-monitor-core-web-vitals-in-next-js)
+* [Monitoring performance in Next.js](https://drew.tech/how-to-monitor-core-web-vitals-in-next-js)

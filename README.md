@@ -37,3 +37,6 @@
 
 ## Core web vitals
 * [Monitoring performance in Next.js](https://drew.tech/how-to-monitor-core-web-vitals-in-next-js)
+
+## SEO
+* [SEO Web Development Tutorial for Beginners](https://hackernoon.com/seo-web-development-tutorial-for-beginners-7273308b6448)

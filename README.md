@@ -35,6 +35,9 @@
 
 * [A Complete Pre-Commit Workflow](https://medium.com/better-programming/a-complete-pre-commit-workflow-cea6e34f0032)
 
+## Patterns / Architecture
+* [What is mono-repo?](https://www.perforce.com/blog/vcs/what-monorepo)
+
 ## Performance
 * [Pagespeed checklist](https://pagespeedchecklist.com/)
 

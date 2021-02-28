@@ -3,7 +3,7 @@
 ## Measurement 
 * [PageInsights](https://developers.google.com/speed/pagespeed/insights/)
 * [PageInsights Calculator to set Goals](https://googlechrome.github.io/lighthouse/scorecalc/#FCP=550&SI=5000&LCP=1140&TTI=1780&TBT=30&CLS=0&FMP=1535&FCI=2563&device=desktop&version=6)
-* [Web.dev](web.dev)
+* [Web.dev](http://web.dev/)
 
 ## Useful Packages
 * [Lerna - For managing JS projects](https://github.com/lerna/lerna)

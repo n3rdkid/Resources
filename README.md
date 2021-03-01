@@ -7,6 +7,7 @@
 
 ## Useful Packages
 * [Lerna - For managing JS projects](https://github.com/lerna/lerna)
+* [Monorepo Tutorial With Lerna, Storybook & Next.js](https://buttercms.com/blog/nextjs-storybook-and-lerna-build-a-monorepo-structure)
 
 ## React 
 * [PropTypes in React: A complete guide](https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc/#:~:text=PropTypes%20is%20React's%20internal%20mechanism,to%20set%20up%20type%20checking.&text=When%20props%20are%20passed%20to,configured%20in%20the%20propTypes%20property.)

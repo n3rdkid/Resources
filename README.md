@@ -1,4 +1,6 @@
 # Resources
+## Animation
+* [Frontend Horse](https://frontend.horse/)
 
 ## Measurement 
 * [PageInsights](https://developers.google.com/speed/pagespeed/insights/)

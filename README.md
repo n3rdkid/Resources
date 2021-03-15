@@ -35,6 +35,9 @@
 * [Be careful with ioutil.ReadAll in Golang](https://haisum.github.io/2017/09/11/golang-ioutil-readall/)
 * [Use Environment Variable in your next Golang Project](https://towardsdatascience.com/use-environment-variable-in-your-next-golang-project-39e17c3aaa66)
 
+Fixes:
+* [Setting GOPATH Manually](https://stackoverflow.com/questions/39816579/command-not-found-after-go-build)
+
 ## Docker 
 * [MySQL - Docker installation](https://techexpert.tips/mysql/mysql-docker-installation/#:~:text=Tutorial%20MySQL%20%2D%20Docker%20Installation%20on,Install%20the%20Docker%20service.&text=Download%20the%20MySQL%20docker%20image%20from%20the%20online%20repository.&text=List%20the%20Docker%20images%20installed%20on%20your%20system.&text=Start%20a%20new%20MySQL%20container%20using%20this%20Docker%20image.)
 

@@ -1,3 +1,17 @@
+# Tutorials / Channels
+## DevSecOps
+* [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
+* [The DevOps Guy](https://www.youtube.com/channel/UCFe9-V_rN9nLqVNiI8Yof3w)
+
+
+
+
+
+
+
+
+
+
 # Resources
 ## Animation
 * [Frontend Horse](https://frontend.horse/)

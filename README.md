@@ -80,3 +80,6 @@ Fixes:
 
 ## SEO
 * [SEO Web Development Tutorial for Beginners](https://hackernoon.com/seo-web-development-tutorial-for-beginners-7273308b6448)
+
+## Utilities
+* PostMan in Ubuntu (Install from Official to prevent cursor issue on HDPI) [Installation Guide](https://speedysense.com/install-postman-on-ubuntu-18-04/)

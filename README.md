@@ -83,3 +83,4 @@ Fixes:
 
 ## Utilities
 * PostMan in Ubuntu (Install from Official to prevent cursor issue on HDPI) [Installation Guide](https://speedysense.com/install-postman-on-ubuntu-18-04/)
+* VLC without CURSOR issue [Install](https://linuxconfig.org/ubuntu-20-04-vlc-installation)

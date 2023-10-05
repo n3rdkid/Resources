@@ -62,6 +62,7 @@ Fixes:
 * [Create a database in a Docker container for local development](https://developer.ibm.com/technologies/databases/tutorials/docker-dev-db/)
 
 * [Run MySQL & phpMyAdmin locally in 3 steps using Docker](https://medium.com/@migueldoctor/run-mysql-phpmyadmin-locally-in-3-steps-using-docker-74eb735fa1fc)
+* [Debug Django in a docker-compose container with VS Code](https://miaoz2001.medium.com/debug-django-in-a-docker-compose-container-with-vs-code-88598dfc8be3)
 
 ## Kubernetes
 
